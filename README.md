@@ -34,18 +34,3 @@ This project provides a user-friendly web interface for assessing an individual'
 **Disclaimer:**
 
 - This tool is for informational purposes only and should not be used as a substitute for professional medical advice. Always consult with a qualified healthcare provider for diagnosis and treatment planning.
-
-**License:**
-
-- Specify the license under which you're distributing your code (e.g., MIT License, Apache License 2.0).
-
-**Contributing:**
-
-- If you'd like to contribute to this project, please refer to the CONTRIBUTION.md file (create one if you plan to accept contributions).
-
-**Additional Notes:**
-
-- Replace placeholders like `your-username` and specific commands with your actual details.
-- Consider adding a section on deployment instructions if your application is intended for production use.
-- You can further enhance the README with screenshots or GIFs showcasing the application's functionality.
-- Maintain a clear and consistent style throughout the README. 
